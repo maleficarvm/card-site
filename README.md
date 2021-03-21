@@ -1,2 +1,2 @@
-# card_site
+# card-site
 turotial_1
